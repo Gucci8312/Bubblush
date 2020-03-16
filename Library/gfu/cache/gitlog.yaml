@@ -1,0 +1,828 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-03-14T14:05:00.824+09:00
+  initializedAtString: 2020-03-14T13:59:50.429+09:00
+  log:
+  - commitID: c8ea1e078f7bb318540fda97dfa8502e6725949d
+    mergeA: 
+    mergeB: 
+    authorName: Gucci0109721
+    authorEmail: kouki.0109721@au.com
+    commitEmail: kouki.0109721@au.com
+    commitName: Gucci0109721
+    summary: First Commit
+    description: 
+    timeString: 2020-03-14T14:01:56.000+09:00
+    commitTimeString: 2020-03-14T14:01:56.000+09:00
+    changes:
+    - path: Assets\Color\Black.mat
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Black.mat
+      projectPath: Assets\Color\Black.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Color\Brue.mat
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Brue.mat
+      projectPath: Assets\Color\Brue.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Script\UniversalRenderPipelineAsset.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\UniversalRenderPipelineAsset.asset
+      projectPath: Assets\Script\UniversalRenderPipelineAsset.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Shader\Bubble.shadergraph
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Bubble.shadergraph
+      projectPath: Assets\Shader\Bubble.shadergraph
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\Bubble.shadergraph.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Bubble.shadergraph.meta
+      projectPath: Assets\Shader\Bubble.shadergraph.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\PlayerVisual.shadergraph
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\PlayerVisual.shadergraph
+      projectPath: Assets\Shader\PlayerVisual.shadergraph
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\PlayerVisual.shadergraph.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\PlayerVisual.shadergraph.meta
+      projectPath: Assets\Shader\PlayerVisual.shadergraph.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\ShaderGraphs_EnergyShield.mat
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ShaderGraphs_EnergyShield.mat
+      projectPath: Assets\Shader\ShaderGraphs_EnergyShield.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\ShaderGraphs_EnergyShield.mat.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ShaderGraphs_EnergyShield.mat.meta
+      projectPath: Assets\Shader\ShaderGraphs_EnergyShield.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\Shape.shader
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Shape.shader
+      projectPath: Assets\Shader\Shape.shader
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Shader\Shape.shader.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Shape.shader.meta
+      projectPath: Assets\Shader\Shape.shader.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Shader\Water.shadergraph
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Water.shadergraph
+      projectPath: Assets\Shader\Water.shadergraph
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\Water.shadergraph.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Water.shadergraph.meta
+      projectPath: Assets\Shader\Water.shadergraph.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 7b4ae1fd23dbd003c48dbdcd64b85ca9b5f8cd29
+    mergeA: 
+    mergeB: 
+    authorName: Gucci0109721
+    authorEmail: kouki.0109721@au.com
+    commitEmail: kouki.0109721@au.com
+    commitName: Gucci0109721
+    summary: firsut comit
+    description: 
+    timeString: 2020-03-13T16:51:38.000+09:00
+    commitTimeString: 2020-03-13T16:51:38.000+09:00
+    changes:
+    - path: Assets\Color.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color.meta
+      projectPath: Assets\Color.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\Black.mat
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Black.mat
+      projectPath: Assets\Color\Black.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\Black.mat.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Black.mat.meta
+      projectPath: Assets\Color\Black.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\Brue.mat
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Brue.mat
+      projectPath: Assets\Color\Brue.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\Brue.mat.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Brue.mat.meta
+      projectPath: Assets\Color\Brue.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\P_Color.mat
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\P_Color.mat
+      projectPath: Assets\Color\P_Color.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\P_Color.mat.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\P_Color.mat.meta
+      projectPath: Assets\Color\P_Color.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\gameover.png
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\gameover.png
+      projectPath: Assets\Color\gameover.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\gameover.png.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\gameover.png.meta
+      projectPath: Assets\Color\gameover.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\title.png
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\title.png
+      projectPath: Assets\Color\title.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Color\title.png.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\title.png.meta
+      projectPath: Assets\Color\title.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Samples.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Samples.meta
+      projectPath: Assets\Samples.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Title.unity
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Scenes\Title.unity
+      projectPath: Assets\Scenes\Title.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Title.unity.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Scenes\Title.unity.meta
+      projectPath: Assets\Scenes\Title.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\result.unity
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Scenes\result.unity
+      projectPath: Assets\Scenes\result.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\result.unity.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Scenes\result.unity.meta
+      projectPath: Assets\Scenes\result.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script.meta
+      projectPath: Assets\Script.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\Button.cs
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\Button.cs
+      projectPath: Assets\Script\Button.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\Button.cs.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\Button.cs.meta
+      projectPath: Assets\Script\Button.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\CapMove.cs
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\CapMove.cs
+      projectPath: Assets\Script\CapMove.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\CapMove.cs.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\CapMove.cs.meta
+      projectPath: Assets\Script\CapMove.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\Jet.cs
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\Jet.cs
+      projectPath: Assets\Script\Jet.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\Jet.cs.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\Jet.cs.meta
+      projectPath: Assets\Script\Jet.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\New Shader Graph.shadergraph
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\New Shader Graph.shadergraph
+      projectPath: Assets\Script\New Shader Graph.shadergraph
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\New Shader Graph.shadergraph.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\New Shader Graph.shadergraph.meta
+      projectPath: Assets\Script\New Shader Graph.shadergraph.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\Player.cs
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\Player.cs
+      projectPath: Assets\Script\Player.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\Player.cs.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\Player.cs.meta
+      projectPath: Assets\Script\Player.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\UniversalRenderPipelineAsset.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\UniversalRenderPipelineAsset.asset
+      projectPath: Assets\Script\UniversalRenderPipelineAsset.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\UniversalRenderPipelineAsset.asset.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\UniversalRenderPipelineAsset.asset.meta
+      projectPath: Assets\Script\UniversalRenderPipelineAsset.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\UniversalRenderPipelineAsset_Renderer.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\UniversalRenderPipelineAsset_Renderer.asset
+      projectPath: Assets\Script\UniversalRenderPipelineAsset_Renderer.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\UniversalRenderPipelineAsset_Renderer.asset.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\UniversalRenderPipelineAsset_Renderer.asset.meta
+      projectPath: Assets\Script\UniversalRenderPipelineAsset_Renderer.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\WaterCol.cs
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\WaterCol.cs
+      projectPath: Assets\Script\WaterCol.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\WaterCol.cs.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Script\WaterCol.cs.meta
+      projectPath: Assets\Script\WaterCol.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader.meta
+      projectPath: Assets\Shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\ColorCostum.shader
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ColorCostum.shader
+      projectPath: Assets\Shader\ColorCostum.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\ColorCostum.shader.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ColorCostum.shader.meta
+      projectPath: Assets\Shader\ColorCostum.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\Flag.shader
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Flag.shader
+      projectPath: Assets\Shader\Flag.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\Flag.shader.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Flag.shader.meta
+      projectPath: Assets\Shader\Flag.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\Shape.shader
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Shape.shader
+      projectPath: Assets\Shader\Shape.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shader\Shape.shader.meta
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Shape.shader.meta
+      projectPath: Assets\Shader\Shape.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: c9923242ecfc7f528f91b921755095dd1b7e464d
+    mergeA: 
+    mergeB: 
+    authorName: Gucci0109721
+    authorEmail: kouki.0109721@au.com
+    commitEmail: kouki.0109721@au.com
+    commitName: Gucci0109721
+    summary: Initial commit
+    description: 
+    timeString: 2020-03-13T16:47:46.000+09:00
+    commitTimeString: 2020-03-13T16:47:46.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

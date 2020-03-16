@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-14T17:08:02.363+09:00
+  initializedAtString: 2020-03-14T13:53:16.297+09:00
+  entries:
+  - path: Assets\Color\Black.mat
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Black.mat
+    projectPath: Assets\Color\Black.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Color\Black.mat.meta
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Black.mat.meta
+    projectPath: Assets\Color\Black.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Color\Brue.mat
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Brue.mat
+    projectPath: Assets\Color\Brue.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Color\Brue.mat.meta
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\Brue.mat.meta
+    projectPath: Assets\Color\Brue.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Color\P_Color.mat
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\P_Color.mat
+    projectPath: Assets\Color\P_Color.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Color\P_Color.mat.meta
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Color\P_Color.mat.meta
+    projectPath: Assets\Color\P_Color.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Shader\ShaderGraphs_Bubble.mat
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ShaderGraphs_Bubble.mat
+    projectPath: Assets\Shader\ShaderGraphs_Bubble.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Shader\ShaderGraphs_Bubble.mat.meta
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ShaderGraphs_Bubble.mat.meta
+    projectPath: Assets\Shader\ShaderGraphs_Bubble.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Shader\ShaderGraphs_EnergyShield.mat
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ShaderGraphs_EnergyShield.mat
+    projectPath: Assets\Shader\ShaderGraphs_EnergyShield.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Shader\ShaderGraphs_EnergyShield.mat.meta
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\ShaderGraphs_EnergyShield.mat.meta
+    projectPath: Assets\Shader\ShaderGraphs_EnergyShield.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Shader\Water.shadergraph
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Water.shadergraph
+    projectPath: Assets\Shader\Water.shadergraph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Shader\Water.shadergraph.meta
+    fullPath: D:\Desktop\Bubblash.Ver1.5\Bubblash\Assets\Shader\Water.shadergraph.meta
+    projectPath: Assets\Shader\Water.shadergraph.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
