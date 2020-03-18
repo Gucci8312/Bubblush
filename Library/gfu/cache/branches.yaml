@@ -13,14 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-03-14T14:01:57.183+09:00
-  initializedAtString: 2020-03-14T14:01:20.089+09:00
+  lastUpdatedAtString: 2020-03-18T21:53:28.276+09:00
+  initializedAtString: 2020-03-18T21:53:27.486+09:00
   localBranches:
-  - name: gucci
-    tracking: 
   - name: master
-    tracking: 
-  remoteBranches: []
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/gucci
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/koki
+    tracking: '[None]'
+  - name: origin/matui
+    tracking: '[None]'
+  - name: origin/taisei
+    tracking: '[None]'
+  - name: origin/tomo
+    tracking: '[None]'
+  - name: origin/yagura
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/Gucci8312/Bubblush.git
@@ -31,23 +43,62 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - gucci
     - master
     values:
-    - name: gucci
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/Gucci8312/Bubblush.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - gucci
+      - HEAD
+      - koki
+      - matui
+      - taisei
+      - tomo
+      - yagura
+    subKeyValues:
+    - Values:
+      - name: gucci
+        remote:
+          name: origin
+          url: https://github.com/Gucci8312/Bubblush.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Gucci8312/Bubblush.git
+        trackingBranch: 
+      - name: koki
+        remote:
+          name: origin
+          url: https://github.com/Gucci8312/Bubblush.git
+        trackingBranch: 
+      - name: matui
+        remote:
+          name: origin
+          url: https://github.com/Gucci8312/Bubblush.git
+        trackingBranch: 
+      - name: taisei
+        remote:
+          name: origin
+          url: https://github.com/Gucci8312/Bubblush.git
+        trackingBranch: 
+      - name: tomo
+        remote:
+          name: origin
+          url: https://github.com/Gucci8312/Bubblush.git
+        trackingBranch: 
+      - name: yagura
+        remote:
+          name: origin
+          url: https://github.com/Gucci8312/Bubblush.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
