@@ -13,11 +13,14 @@ public class CapMove : MonoBehaviour
     public bool StickFlag = false; // true:くっついてる　false:くっついてない
 
     private bool RotaFlag;
+
+    float gosa = 10.0f;
+
     // Start is called before the first frame update
     void Start()
     {
         Rigidbody = this.GetComponent<Rigidbody>();
-       
+
         //for (int Cnt = 0; Cnt < 4; Cnt++)
         //{
         //    Flag[Cnt] = objTarget[Cnt].GetComponent<Jet>().RockMove;
@@ -27,14 +30,13 @@ public class CapMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
+
         if (StickFlag)
         {
             if (Flag[_Cnt] == false)
             {
-                this.transform.position = new Vector3(objTarget[_Cnt].transform.position.x, objTarget[_Cnt].transform.position.y, 0);
+                //this.transform.position = new Vector3(objTarget[_Cnt].transform.position.x, objTarget[_Cnt].transform.position.y, 0);
                 //this.transform.Rotate(new Vector3(0, 0, 1), Player.transform.rotation.z);
-
             }
         }
     }
@@ -106,58 +108,44 @@ public class CapMove : MonoBehaviour
         {
             if (!StickFlag) //くっついてないとき
             {
-                if (collision.gameObject.name == "RJet")
+
+                for (int Cnt = 0; Cnt < 4; Cnt++)
                 {
-                    if (Flag[0])
+                    if (collision.gameObject.name == objTarget[Cnt].name) //当たったオブジェクト名がobjTargetで指定したものと同じだったら
                     {
-                        _Cnt = 0;
-                        StickFlag = true;
-                        //Debug.Log(objTarget[Cnt]);
-                        Debug.Log("当たり");
+                        if (Flag[Cnt])
+                        {
+                            if (Player.transform.localEulerAngles.z >= 360 - gosa && Player.transform.localEulerAngles.z <= 0 + gosa ||
+                                Player.transform.localEulerAngles.z >= 90 - gosa && Player.transform.localEulerAngles.z <= 90 + gosa ||
+                                Player.transform.localEulerAngles.z >= 180 - gosa && Player.transform.localEulerAngles.z <= 180 + gosa ||
+                                  Player.transform.localEulerAngles.z >= 270 - gosa && Player.transform.localEulerAngles.z <= 270 + gosa)
+                            {       //プレイヤーが正方形のような状態なら
+                                _Cnt = Cnt;
+                                StickFlag = true;
+                                //Debug.Log(objTarget[Cnt]);
+                                Debug.Log("当たり");
 
-                        this.transform.parent = objTarget[_Cnt].transform; //親子関係にする
+                                this.transform.parent = objTarget[_Cnt].transform; //親子関係にする
+                            }
+                            else if (Player.transform.localEulerAngles.z >= 45 - gosa && Player.transform.localEulerAngles.z <= 45 + gosa ||
+                                    Player.transform.localEulerAngles.z >= 135 - gosa && Player.transform.localEulerAngles.z <= 135 + gosa ||
+                                    Player.transform.localEulerAngles.z >= 225 - gosa && Player.transform.localEulerAngles.z <= 225 + gosa ||
+                                       Player.transform.localEulerAngles.z >= 315 - gosa && Player.transform.localEulerAngles.z <= 315 + gosa)
+                            {       //プレイヤーがひし形のような状態なら
+                                if (this.transform.rotation.z != 0)    //傾いているなら
+                                {
+                                    _Cnt = Cnt;
+                                    StickFlag = true;
+                                    //Debug.Log(objTarget[Cnt]);
+                                    Debug.Log("当たり");
 
+                                    this.transform.parent = objTarget[_Cnt].transform; //親子関係にする
+                                }
+                            }
+                        }
                     }
                 }
-                if (collision.gameObject.name == "LJet")
-                {
-                    if (Flag[1])
-                    {
-                        _Cnt = 1;
-                        StickFlag = true;
-                        //Debug.Log(objTarget[Cnt]);
-                        Debug.Log("当たり");
 
-                        this.transform.parent = objTarget[_Cnt].transform; //親子関係にする
-
-                    }
-                }
-                if (collision.gameObject.name == "UJet")
-                {
-                    if (Flag[2])
-                    {
-                        _Cnt = 2;
-                        StickFlag = true;
-                        //Debug.Log(objTarget[Cnt]);
-                        Debug.Log("当たり");
-
-                        this.transform.parent = objTarget[_Cnt].transform; //親子関係にする
-
-                    }
-                }
-                if (collision.gameObject.name == "DJet")
-                {
-                    if (Flag[3])
-                    {
-                        _Cnt = 3;
-                        StickFlag = true;
-                        //Debug.Log(objTarget[Cnt]);
-                        Debug.Log("当たり");
-
-                        this.transform.parent = objTarget[_Cnt].transform; //親子関係にする
-
-                    }
-                }
             }
         }
     }

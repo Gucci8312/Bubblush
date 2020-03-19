@@ -13,114 +13,126 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-18T16:52:18.035+09:00
-  initializedAtString: 2020-03-18T16:45:56.987+09:00
+  lastUpdatedAtString: 2020-03-19T23:31:19.388+09:00
+  initializedAtString: 2020-03-19T23:03:01.542+09:00
   entries:
+  - path: .vs\Bubblush\v15\Server\sqlite3\db.lock
+    fullPath: D:\Documents\GitHub\Bubblush\.vs\Bubblush\v15\Server\sqlite3\db.lock
+    projectPath: .vs\Bubblush\v15\Server\sqlite3\db.lock
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs\Bubblush\v15\Server\sqlite3\storage.ide
+    fullPath: D:\Documents\GitHub\Bubblush\.vs\Bubblush\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Bubblush\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs\Bubblush\v15\Server\sqlite3\storage.ide-shm
+    fullPath: D:\Documents\GitHub\Bubblush\.vs\Bubblush\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Bubblush\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs\Bubblush\v15\Server\sqlite3\storage.ide-wal
+    fullPath: D:\Documents\GitHub\Bubblush\.vs\Bubblush\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Bubblush\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\Documents\GitHub\Bubblush\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Documents\GitHub\Bubblush\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Script\CapMove.cs
+    fullPath: D:\Documents\GitHub\Bubblush\Assets\Script\CapMove.cs
+    projectPath: Assets\Script\CapMove.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Script\Jet.cs
+    fullPath: D:\Documents\GitHub\Bubblush\Assets\Script\Jet.cs
+    projectPath: Assets\Script\Jet.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Shader\Water.shadergraph
+    fullPath: D:\Documents\GitHub\Bubblush\Assets\Shader\Water.shadergraph
+    projectPath: Assets\Shader\Water.shadergraph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Shader\WaterColor.mat
     fullPath: D:\Documents\GitHub\Bubblush\Assets\Shader\WaterColor.mat
     projectPath: Assets\Shader\WaterColor.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Bubblush.sln
+    fullPath: D:\Documents\GitHub\Bubblush\Bubblush.sln
+    projectPath: Bubblush.sln
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: D:\Documents\GitHub\Bubblush\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\06\06b30a890662749d3a33e20c1692d400
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\06\06b30a890662749d3a33e20c1692d400
-    projectPath: Library\Artifacts\06\06b30a890662749d3a33e20c1692d400
+  - path: Library\Artifacts\31\31fe2ed17fc5bc7d7aa6cf970d38c3db
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\31\31fe2ed17fc5bc7d7aa6cf970d38c3db
+    projectPath: Library\Artifacts\31\31fe2ed17fc5bc7d7aa6cf970d38c3db
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0b\0b2c7e12ad899e2fd6da2d389767c877
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\0b\0b2c7e12ad899e2fd6da2d389767c877
-    projectPath: Library\Artifacts\0b\0b2c7e12ad899e2fd6da2d389767c877
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a46a497d50758540fb5150018e97ea6
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\4a\4a46a497d50758540fb5150018e97ea6
+    projectPath: Library\Artifacts\4a\4a46a497d50758540fb5150018e97ea6
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0f\0f07861235b7caabfdb9cb51c2e94b7d
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\0f\0f07861235b7caabfdb9cb51c2e94b7d
-    projectPath: Library\Artifacts\0f\0f07861235b7caabfdb9cb51c2e94b7d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1e\1e1330705c76254b28b3bc27c322120c
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\1e\1e1330705c76254b28b3bc27c322120c
-    projectPath: Library\Artifacts\1e\1e1330705c76254b28b3bc27c322120c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\20\205713ef4fc85935ed7e25f1eff02520
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\20\205713ef4fc85935ed7e25f1eff02520
-    projectPath: Library\Artifacts\20\205713ef4fc85935ed7e25f1eff02520
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4e\4e35bdbdf3e73e7a08f268ca2b052c50
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\4e\4e35bdbdf3e73e7a08f268ca2b052c50
-    projectPath: Library\Artifacts\4e\4e35bdbdf3e73e7a08f268ca2b052c50
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4f\4fdd254209e8defd17457794d517ed28
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\4f\4fdd254209e8defd17457794d517ed28
-    projectPath: Library\Artifacts\4f\4fdd254209e8defd17457794d517ed28
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\5c\5c69584f74f15b39a24e3d2b6ce68a2f
     fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\5c\5c69584f74f15b39a24e3d2b6ce68a2f
     projectPath: Library\Artifacts\5c\5c69584f74f15b39a24e3d2b6ce68a2f
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\66\66de7fcfc4bf4de1982fefaa94f7c07d
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\66\66de7fcfc4bf4de1982fefaa94f7c07d
+    projectPath: Library\Artifacts\66\66de7fcfc4bf4de1982fefaa94f7c07d
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\61\613fdac55686a71029dc03252acdb670
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\61\613fdac55686a71029dc03252acdb670
-    projectPath: Library\Artifacts\61\613fdac55686a71029dc03252acdb670
+  - path: Library\Artifacts\71\71841c848af0e757446aaf29b1d1aef2
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\71\71841c848af0e757446aaf29b1d1aef2
+    projectPath: Library\Artifacts\71\71841c848af0e757446aaf29b1d1aef2
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\66\660d1a5e797cbf9f856ffe9d97d14f9f
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\66\660d1a5e797cbf9f856ffe9d97d14f9f
-    projectPath: Library\Artifacts\66\660d1a5e797cbf9f856ffe9d97d14f9f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\80\8059d0e6f257821a5303e0df6cba4a4a
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\80\8059d0e6f257821a5303e0df6cba4a4a
+    projectPath: Library\Artifacts\80\8059d0e6f257821a5303e0df6cba4a4a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7f\7f3470792929d54c1c536ee7396f1c25
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\7f\7f3470792929d54c1c536ee7396f1c25
-    projectPath: Library\Artifacts\7f\7f3470792929d54c1c536ee7396f1c25
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8ec0a99c81255aef4234391ac87a86d8
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\8e\8ec0a99c81255aef4234391ac87a86d8
+    projectPath: Library\Artifacts\8e\8ec0a99c81255aef4234391ac87a86d8
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\80\80160fd7d50bbac4246cfd2e8e2e4853
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\80\80160fd7d50bbac4246cfd2e8e2e4853
-    projectPath: Library\Artifacts\80\80160fd7d50bbac4246cfd2e8e2e4853
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\86\862bb3390d1110a4e4a66be20a50a4bd
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\86\862bb3390d1110a4e4a66be20a50a4bd
-    projectPath: Library\Artifacts\86\862bb3390d1110a4e4a66be20a50a4bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\87\8711e11e9ca0499bff42b47574212c2b
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\87\8711e11e9ca0499bff42b47574212c2b
-    projectPath: Library\Artifacts\87\8711e11e9ca0499bff42b47574212c2b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\87\87ffcb23322664a2977ccda3fc6ca345
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\87\87ffcb23322664a2977ccda3fc6ca345
-    projectPath: Library\Artifacts\87\87ffcb23322664a2977ccda3fc6ca345
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\94\947be818118ea6c9648b02526b4dae88
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\94\947be818118ea6c9648b02526b4dae88
-    projectPath: Library\Artifacts\94\947be818118ea6c9648b02526b4dae88
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a8\a86c48c9aa0e22929ac6e6b07647fd89
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\a8\a86c48c9aa0e22929ac6e6b07647fd89
+    projectPath: Library\Artifacts\a8\a86c48c9aa0e22929ac6e6b07647fd89
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -128,62 +140,14 @@ MonoBehaviour:
     fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\ab\abcce97a64b4f51ab1806fc4305cef21
     projectPath: Library\Artifacts\ab\abcce97a64b4f51ab1806fc4305cef21
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b5\b5882984b853731cb92efb0bbae13188
+    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\b5\b5882984b853731cb92efb0bbae13188
+    projectPath: Library\Artifacts\b5\b5882984b853731cb92efb0bbae13188
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\be\beee97b2e0937c7b25740fb320eeaef4
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\be\beee97b2e0937c7b25740fb320eeaef4
-    projectPath: Library\Artifacts\be\beee97b2e0937c7b25740fb320eeaef4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c0\c0cd994e64736bcdf9e8a47d9fa400aa
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\c0\c0cd994e64736bcdf9e8a47d9fa400aa
-    projectPath: Library\Artifacts\c0\c0cd994e64736bcdf9e8a47d9fa400aa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c2\c25a6d8eec85b26993ba54e5e8029253
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\c2\c25a6d8eec85b26993ba54e5e8029253
-    projectPath: Library\Artifacts\c2\c25a6d8eec85b26993ba54e5e8029253
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c6\c6c1a30994b1ded0cd872e7858631797
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\c6\c6c1a30994b1ded0cd872e7858631797
-    projectPath: Library\Artifacts\c6\c6c1a30994b1ded0cd872e7858631797
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d0\d001fa8a380021c9f3fdce44973ffd74
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\d0\d001fa8a380021c9f3fdce44973ffd74
-    projectPath: Library\Artifacts\d0\d001fa8a380021c9f3fdce44973ffd74
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d2\d22a7d187528e2b91b194a8ec3feeb21
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\d2\d22a7d187528e2b91b194a8ec3feeb21
-    projectPath: Library\Artifacts\d2\d22a7d187528e2b91b194a8ec3feeb21
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d7\d7beb100d0e745edbe5aa2b7abc5c7c7
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\d7\d7beb100d0e745edbe5aa2b7abc5c7c7
-    projectPath: Library\Artifacts\d7\d7beb100d0e745edbe5aa2b7abc5c7c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f3\f318e743d78b11d7a5d00fa67845aa7f
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\f3\f318e743d78b11d7a5d00fa67845aa7f
-    projectPath: Library\Artifacts\f3\f318e743d78b11d7a5d00fa67845aa7f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f6\f61753b1bb1f7ed122745c04ea01e95f
-    fullPath: D:\Documents\GitHub\Bubblush\Library\Artifacts\f6\f61753b1bb1f7ed122745c04ea01e95f
-    projectPath: Library\Artifacts\f6\f61753b1bb1f7ed122745c04ea01e95f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\EditorInstance.json
     fullPath: D:\Documents\GitHub\Bubblush\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -220,27 +184,333 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\Documents\GitHub\Bubblush\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: D:\Documents\GitHub\Bubblush\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache.db
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\0a0d8fc3d801929d026bfaa1276044e3.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\0\0a0d8fc3d801929d026bfaa1276044e3.bin
+    projectPath: Library\ShaderCache\0\0a0d8fc3d801929d026bfaa1276044e3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0ac60d864a4c89f0d44b13475defa80f.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\0\0ac60d864a4c89f0d44b13475defa80f.bin
+    projectPath: Library\ShaderCache\0\0ac60d864a4c89f0d44b13475defa80f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0c3b05be6ecad176e36298d6e35134b8.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\0\0c3b05be6ecad176e36298d6e35134b8.bin
+    projectPath: Library\ShaderCache\0\0c3b05be6ecad176e36298d6e35134b8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0ed0f40be30e06dac32ec18000039788.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\0\0ed0f40be30e06dac32ec18000039788.bin
+    projectPath: Library\ShaderCache\0\0ed0f40be30e06dac32ec18000039788.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1857ae5baa74257033de43bede0524a2.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\1\1857ae5baa74257033de43bede0524a2.bin
+    projectPath: Library\ShaderCache\1\1857ae5baa74257033de43bede0524a2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\18ab0db35cb9379e456c5218d6ec7f95.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\1\18ab0db35cb9379e456c5218d6ec7f95.bin
+    projectPath: Library\ShaderCache\1\18ab0db35cb9379e456c5218d6ec7f95.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\26cb25aa0ff8bf26cc2f10e957540c95.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\2\26cb25aa0ff8bf26cc2f10e957540c95.bin
+    projectPath: Library\ShaderCache\2\26cb25aa0ff8bf26cc2f10e957540c95.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2df7c7f69a86b0179bbc0807676f0edc.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\2\2df7c7f69a86b0179bbc0807676f0edc.bin
+    projectPath: Library\ShaderCache\2\2df7c7f69a86b0179bbc0807676f0edc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\361a4cf9f14ec211e3dfd7fb9569b396.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\3\361a4cf9f14ec211e3dfd7fb9569b396.bin
+    projectPath: Library\ShaderCache\3\361a4cf9f14ec211e3dfd7fb9569b396.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3e34c57d31817b63f4e4237abd05f026.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\3\3e34c57d31817b63f4e4237abd05f026.bin
+    projectPath: Library\ShaderCache\3\3e34c57d31817b63f4e4237abd05f026.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\43e9893e08a2a21bc1715e8a0dec12f3.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\4\43e9893e08a2a21bc1715e8a0dec12f3.bin
+    projectPath: Library\ShaderCache\4\43e9893e08a2a21bc1715e8a0dec12f3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\495a1117f4e86330c8aeebabcb0bf57e.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\4\495a1117f4e86330c8aeebabcb0bf57e.bin
+    projectPath: Library\ShaderCache\4\495a1117f4e86330c8aeebabcb0bf57e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4ef72704371f1bcf74700c084d7c87e7.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\4\4ef72704371f1bcf74700c084d7c87e7.bin
+    projectPath: Library\ShaderCache\4\4ef72704371f1bcf74700c084d7c87e7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\546dfc4a9d71803338c4b7ab441fcddf.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\5\546dfc4a9d71803338c4b7ab441fcddf.bin
+    projectPath: Library\ShaderCache\5\546dfc4a9d71803338c4b7ab441fcddf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\75ca1ed5a717b3ee5b30c08e87a3d257.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\7\75ca1ed5a717b3ee5b30c08e87a3d257.bin
+    projectPath: Library\ShaderCache\7\75ca1ed5a717b3ee5b30c08e87a3d257.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\76fd3e392e060f4ec6c79b9eaf6ecb48.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\7\76fd3e392e060f4ec6c79b9eaf6ecb48.bin
+    projectPath: Library\ShaderCache\7\76fd3e392e060f4ec6c79b9eaf6ecb48.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\86f50228bee0fee2046e7b1a5c7f2394.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\8\86f50228bee0fee2046e7b1a5c7f2394.bin
+    projectPath: Library\ShaderCache\8\86f50228bee0fee2046e7b1a5c7f2394.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\895e732507d6041f25706b143f17ddd2.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\8\895e732507d6041f25706b143f17ddd2.bin
+    projectPath: Library\ShaderCache\8\895e732507d6041f25706b143f17ddd2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8a250fbc6a1b158868f366d31cbc6439.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\8\8a250fbc6a1b158868f366d31cbc6439.bin
+    projectPath: Library\ShaderCache\8\8a250fbc6a1b158868f366d31cbc6439.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8c22800dd897ef56d564bbc4058ef0d1.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\8\8c22800dd897ef56d564bbc4058ef0d1.bin
+    projectPath: Library\ShaderCache\8\8c22800dd897ef56d564bbc4058ef0d1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\947bce370e0d0ad59e9763208e69e3b3.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\9\947bce370e0d0ad59e9763208e69e3b3.bin
+    projectPath: Library\ShaderCache\9\947bce370e0d0ad59e9763208e69e3b3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\96068338e2c6b8f392a0925e361fd6c4.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\9\96068338e2c6b8f392a0925e361fd6c4.bin
+    projectPath: Library\ShaderCache\9\96068338e2c6b8f392a0925e361fd6c4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9a74b68071ac754054d7f6d73aa5395c.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\9\9a74b68071ac754054d7f6d73aa5395c.bin
+    projectPath: Library\ShaderCache\9\9a74b68071ac754054d7f6d73aa5395c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9cfa2a6875d1a1fb0cc2de35cc3b3cf5.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\9\9cfa2a6875d1a1fb0cc2de35cc3b3cf5.bin
+    projectPath: Library\ShaderCache\9\9cfa2a6875d1a1fb0cc2de35cc3b3cf5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ab09ba66bdd557c9e45279756995c065.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\a\ab09ba66bdd557c9e45279756995c065.bin
+    projectPath: Library\ShaderCache\a\ab09ba66bdd557c9e45279756995c065.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ab848115ae0960e1c3ac44adf4e13f71.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\a\ab848115ae0960e1c3ac44adf4e13f71.bin
+    projectPath: Library\ShaderCache\a\ab848115ae0960e1c3ac44adf4e13f71.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\abaebbf79da3cc3f54f22013ceb1953b.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\a\abaebbf79da3cc3f54f22013ceb1953b.bin
+    projectPath: Library\ShaderCache\a\abaebbf79da3cc3f54f22013ceb1953b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ae4362bea8666c7c7dce342cfebda0ce.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\a\ae4362bea8666c7c7dce342cfebda0ce.bin
+    projectPath: Library\ShaderCache\a\ae4362bea8666c7c7dce342cfebda0ce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b6b69fb2c326d9fcf830311c5ed8b91a.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\b\b6b69fb2c326d9fcf830311c5ed8b91a.bin
+    projectPath: Library\ShaderCache\b\b6b69fb2c326d9fcf830311c5ed8b91a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b933fd4768327cda59546a634817cb50.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\b\b933fd4768327cda59546a634817cb50.bin
+    projectPath: Library\ShaderCache\b\b933fd4768327cda59546a634817cb50.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c3d3dbe5942fb17627c13b16bc9bb8a0.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\c\c3d3dbe5942fb17627c13b16bc9bb8a0.bin
+    projectPath: Library\ShaderCache\c\c3d3dbe5942fb17627c13b16bc9bb8a0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\db69342ef20ae05b56ca6c75d4efb672.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\d\db69342ef20ae05b56ca6c75d4efb672.bin
+    projectPath: Library\ShaderCache\d\db69342ef20ae05b56ca6c75d4efb672.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dcc53895bb4ca5722415479aed3f439c.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\d\dcc53895bb4ca5722415479aed3f439c.bin
+    projectPath: Library\ShaderCache\d\dcc53895bb4ca5722415479aed3f439c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\def88223153937326198c609b80e38a1.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\d\def88223153937326198c609b80e38a1.bin
+    projectPath: Library\ShaderCache\d\def88223153937326198c609b80e38a1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dfcbbf190bf252181c8a7c253fad58b9.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\d\dfcbbf190bf252181c8a7c253fad58b9.bin
+    projectPath: Library\ShaderCache\d\dfcbbf190bf252181c8a7c253fad58b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ShaderCache\f\f7d3c5dfd68b0f44b79afad378fc0d75.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\f\f7d3c5dfd68b0f44b79afad378fc0d75.bin
+    projectPath: Library\ShaderCache\f\f7d3c5dfd68b0f44b79afad378fc0d75.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fb4333464ecbc6716c8cf1e9846bb5f0.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\f\fb4333464ecbc6716c8cf1e9846bb5f0.bin
+    projectPath: Library\ShaderCache\f\fb4333464ecbc6716c8cf1e9846bb5f0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fdc1128ab3ecac4a4f3bae8bf186490a.bin
+    fullPath: D:\Documents\GitHub\Bubblush\Library\ShaderCache\f\fdc1128ab3ecac4a4f3bae8bf186490a.bin
+    projectPath: Library\ShaderCache\f\fdc1128ab3ecac4a4f3bae8bf186490a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: D:\Documents\GitHub\Bubblush\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -256,6 +526,42 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\SceneView\885981-mainStage.json
+    fullPath: D:\Documents\GitHub\Bubblush\Library\StateCache\SceneView\885981-mainStage.json
+    projectPath: Library\StateCache\SceneView\885981-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
+    fullPath: D:\Documents\GitHub\Bubblush\Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: D:\Documents\GitHub\Bubblush\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\Documents\GitHub\Bubblush\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: D:\Documents\GitHub\Bubblush\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\Documents\GitHub\Bubblush\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: D:\Documents\GitHub\Bubblush\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -268,9 +574,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\ProcessJobs\47491e5bbdbb18ae535e3a982e7d0d28.bakert
+    fullPath: D:\Documents\GitHub\Bubblush\Temp\ProcessJobs\47491e5bbdbb18ae535e3a982e7d0d28.bakert
+    projectPath: Temp\ProcessJobs\47491e5bbdbb18ae535e3a982e7d0d28.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\5d9c2a82e182e9cd9aef338bc8aebcad.bakert
+    fullPath: D:\Documents\GitHub\Bubblush\Temp\ProcessJobs\5d9c2a82e182e9cd9aef338bc8aebcad.bakert
+    projectPath: Temp\ProcessJobs\5d9c2a82e182e9cd9aef338bc8aebcad.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\6e608c130de87be442747c5bf1091e2a.bakert
+    fullPath: D:\Documents\GitHub\Bubblush\Temp\ProcessJobs\6e608c130de87be442747c5bf1091e2a.bakert
+    projectPath: Temp\ProcessJobs\6e608c130de87be442747c5bf1091e2a.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: D:\Documents\GitHub\Bubblush\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9d58e85113b1972409578ec62d116dee
+    fullPath: D:\Documents\GitHub\Bubblush\Temp\UnityTempFile-9d58e85113b1972409578ec62d116dee
+    projectPath: Temp\UnityTempFile-9d58e85113b1972409578ec62d116dee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d8c782fb43372d446814bbe1916faaa6
+    fullPath: D:\Documents\GitHub\Bubblush\Temp\UnityTempFile-d8c782fb43372d446814bbe1916faaa6
+    projectPath: Temp\UnityTempFile-d8c782fb43372d446814bbe1916faaa6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

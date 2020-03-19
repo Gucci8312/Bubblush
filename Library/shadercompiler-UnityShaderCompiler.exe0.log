@@ -1,2 +1,180 @@
 Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=69954 outsize=2956 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=74045 outsize=2947 ok=1
+Cmd: preprocess
+  insize=8501 outsize=584 ok=1
+Cmd: preprocess
+  insize=6289 outsize=587 ok=1
+Cmd: preprocess
+  insize=8800 outsize=582 ok=1
+Cmd: preprocess
+  insize=9224 outsize=587 ok=1
+Cmd: preprocess
+  insize=3513 outsize=584 ok=1
+Cmd: preprocess
+  insize=9422 outsize=580 ok=1
+Cmd: preprocess
+  insize=3399 outsize=578 ok=1
+Cmd: preprocess
+  insize=7109 outsize=579 ok=1
+Cmd: preprocess
+  insize=3723 outsize=584 ok=1
+Cmd: preprocess
+  insize=3399 outsize=578 ok=1
+Cmd: preprocess
+  insize=4226 outsize=579 ok=1
+Cmd: preprocess
+  insize=6743 outsize=582 ok=1
+Cmd: preprocess
+  insize=6929 outsize=585 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (171): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=6498 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (174): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=6681 outsize=3150 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=74045 outsize=2947 ok=1
+Cmd: preprocess
+  insize=8501 outsize=584 ok=1
+Cmd: preprocess
+  insize=6289 outsize=587 ok=1
+Cmd: preprocess
+  insize=8800 outsize=582 ok=1
+Cmd: preprocess
+  insize=9224 outsize=587 ok=1
+Cmd: preprocess
+  insize=3513 outsize=584 ok=1
+Cmd: preprocess
+  insize=9422 outsize=580 ok=1
+Cmd: preprocess
+  insize=3399 outsize=578 ok=1
+Cmd: preprocess
+  insize=7109 outsize=579 ok=1
+Cmd: preprocess
+  insize=3723 outsize=584 ok=1
+Cmd: preprocess
+  insize=3399 outsize=578 ok=1
+Cmd: preprocess
+  insize=4226 outsize=579 ok=1
+Cmd: preprocess
+  insize=6743 outsize=582 ok=1
+Cmd: preprocess
+  insize=6929 outsize=585 ok=1
+Cmd: preprocess
+  insize=9422 outsize=580 ok=1
+Cmd: preprocess
+  insize=74045 outsize=2947 ok=1
+Cmd: preprocess
+  insize=8501 outsize=584 ok=1
+Cmd: preprocess
+  insize=8800 outsize=582 ok=1
+Cmd: preprocess
+  insize=9224 outsize=587 ok=1
+Cmd: preprocess
+  insize=3723 outsize=584 ok=1
+Cmd: preprocess
+  insize=4226 outsize=579 ok=1
+Cmd: preprocess
+  insize=6289 outsize=587 ok=1
+Cmd: preprocess
+  insize=6743 outsize=582 ok=1
+Cmd: preprocess
+  insize=6929 outsize=585 ok=1
+Cmd: preprocess
+  insize=7109 outsize=579 ok=1
+Cmd: preprocess
+  insize=69952 outsize=2956 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/Includes/PBRForwardPass.hlsl(18): Output value 'vert' is not completely initialized\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=19619 outsize=2286 kw=_ADDITIONAL_LIGHTS pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (203): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=19619 outsize=7298 kw=_ADDITIONAL_LIGHTS pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
